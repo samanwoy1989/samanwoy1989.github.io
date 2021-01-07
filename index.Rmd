@@ -1,0 +1,46 @@
+---
+title: "Samanwoy Mukhopadhyay"
+image: "samanwoy.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/samanwoy1989"
+  - label: ORCiD ID
+    url: "https://orcid.org/0000-0002-8660-5670"
+  - label: Email
+    url: "mailto:m.samanwoy@gmail.com"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+```{r}
+knitr::include_graphics("samanwoy.jpg")
+```
+
+
+
+I am a Computational Biologist, Researcher in Biomedical Genomics, Specifically transcriptome data analysis with R. I love talking about Christopher Nolan films, Football, and causal inference.
+I have submitted my Ph.D. thesis in Biotechnology (September 2019) University of Calcutta. Currently searching for a post-doctoral researcher position in genomics.
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> m.samanwoy@gmail.com
+- <i class="fa fa-envelope-square"></i> sm3@nibmg.ac.in
+- <i class="fa fa-github"></i> Github ID: [samanwoy1989](https://github.com/samanwoy1989)
+- <i class="fa fa-phone"></i> +91 898-116-3530
+- For more information, please contact me via email.
+- [ORCiD ID](https://orcid.org/0000-0002-8660-5670
+)
+- <i class="fa fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?user=hvi2rgQAAAAJ&hl=en&oi=sra)
