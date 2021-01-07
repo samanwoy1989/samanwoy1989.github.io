@@ -1,0 +1,14 @@
+name: "distilled_website_sam"
+title: "Samanwoy"
+description: |
+  My Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Curriculum Vitae"
+      href: CV.html
+output: distill::distill_article
