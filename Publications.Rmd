@@ -1,0 +1,66 @@
+---
+title: "Publications & Codes"
+description: |
+  Some additional details about the Publications and their associated codes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+###  Dynamic dysregulation of IL-6 and genes functional in NETosis, complement and coagulation in severe COVID-19 illness. [<i class="fa fa-link"></i>](https://www.medrxiv.org/content/10.1101/2020.10.13.20211425v1) 
+**medRxiv**. 2020 Oct 15. (**Pre-print**)  
+**Mukhopadhyay S**, Sinha S, Mohapatra SK.
+
+2020
+
+### Sepsis-associated pathways segregate cancer groups. [<i class="fa fa-link"></i>](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-020-06774-9) 
+**BMC cancer**. 2020 Apr ;20:1-1. 
+Tripathi H, **Mukhopadhyay S**, Mohapatra SK.
+
+2020
+
+
+
+###  Immunosuppression, rather than inflammation, is a salient feature of sepsis in an Indian cohort. [<i class="fa fa-link"></i>](https://www.biorxiv.org/content/10.1101/742924v1) 
+**bioRxiv**. 2019 Aug 22:742924. (**Pre-print**)
+**Mukhopadhyay S**, Thatoi PK, Das BK, Mohapatra SK.
+
+2019
+
+
+###  Transcriptomic meta-analysis reveals up-regulation of gene expression functional in osteoclast differentiation in human septic shock. [<i class="fa fa-link"></i>](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171689) 
+**PloS one**. 2017 Feb 15;12(2):e0171689.
+**Mukhopadhyay S**, Thatoi PK, Pandey AD, Das BK, Ravindran B, Bhattacharjee S, Mohapatra SK.
+
+2017
+
+### Sepsis 2016 Agra: Pathway-level meta-analysis reveals transcriptional signature of septic shock. [<i class="fa fa-link"></i>](https://ccforum.biomedcentral.com/articles/10.1186/s13054-016-1204-x) 
+**Critical Care (BMC)**. 2016;20(Suppl 1):5–6. (**Conference Paper**)
+**Mukhopadhyay S**, Pandey AD, Bhattacharjee S, Mohapatra SK.
+
+2016
+
+
+
+
+
+Code and Data packages {data-icon=laptop}
+--------------------------------------------
+* Published Manuscript: Meta-analysis of Septic Shock: (R data package [<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmg/18664), Vignette[<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmg/18664))
+* Published Manuscript: Sepsis-associated pathways segregate cancer groups
+Rcode: [<i class="fa fa-link"></i>](https://figshare.com/articles/tcnibmgdoc/8118647/5,
+https://figshare.com/articles/tcnibmgdoc/8118647/5)
+Data-package [<i class="fa fa-link"></i>](https://figshare.com/articles/tcnibmg/8118413/3)
+* Preprint: Host transcriptome analysis for survival of sepsis patients from an Indian cohort: (R data package [<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmgsurv/67721), Vignette
+[<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmgsurv/67721))
+* Preprint: Dynamic dysregulation of IL-6 and genes functional in NETosis, complement and coagulation in severe COVID-19 illness. [<i class="fa fa-link"></i>](https://github.com/samanwoy1989/covid-19)
+
+Github Link
+------------------------------------
+- <i class="fa fa-github"></i> Github ID: [samanwoy1989](https://github.com/samanwoy1989)
