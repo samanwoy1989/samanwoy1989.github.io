@@ -1,5 +1,5 @@
 ---
-title: "Samanwoy Mukhopadhyay"
+title: "Samanwoy Mukhopadhyay (PhD)"
 image: "samanwoy.jpg"
 links:
   - label: GitHub
@@ -28,8 +28,7 @@ knitr::include_graphics("samanwoy.jpg")
 
 
 
-I am a Computational Biologist, Researcher in Biomedical Genomics, Specifically transcriptome data analysis with R. I love talking about Christopher Nolan films, Football, and causal inference.
-I have submitted my Ph.D. thesis in Biotechnology (September 2019) University of Calcutta. Currently searching for a post-doctoral researcher position in genomics.
+I am a seasoned Computational Biologist specializing in Biomedical Genomics. With extensive experience in RNAseq, Single-Cell RNAseq, and Microarray data analysis, I excel in analysis and interpretation to insight generation. I have provided technical and delivery expertise across various high-impact projects, successfully managing numerous projects in industry settings to generate actionable biological insights. I am now seeking industry roles to further drive innovation in Biomedical Genomics and bioinformatics. In my free time, I enjoy discussing Christopher Nolan films, football, and exploring causal inference.
 
 
 
@@ -37,7 +36,6 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> m.samanwoy@gmail.com
-- <i class="fa fa-envelope-square"></i> sm3@nibmg.ac.in
 - <i class="fa fa-github"></i> Github ID: [samanwoy1989](https://github.com/samanwoy1989)
 - <i class="fa fa-phone"></i> +91 898-116-3530
 - For more information, please contact me via email.

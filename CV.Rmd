@@ -1,155 +1,180 @@
 ---
 title: "Education and Research Experiences"
 ---
-Skills {#skills}
---------------------------------------------------------------------------------
 
-- Experienced in Microarray, RNAseq, Single Cell RNAseq data analysis with bioconductor and R
+## Skills {#skills}
 
-- Skilled in R, LaTeX, Markdown, git
-- Python and Bash literate
-- Experienced in scientific computing with Linux OS 
+-   **Bioinformatics Analysis and Insight generation:** Extensive experience with Microarray, RNAseq, and Single-Cell RNAseq data analysis using Bioconductor and R.
+-   **Programming Languages:** Proficient in R, Python, LaTeX, Markdown, SQL, and Bash; experienced with version control using Git.
+-   **Scientific Computing:** Skilled in scientific computing on Linux OS.
+-   **Data Analysis and Visualization:** Proficient in using RStudio, Jupyter, Shiny, Spotfire, and other tools for data analysis and visualization.
+-   **Web and API Development:** Experienced in developing websites and APIs using tools like pagedown, blogdown, Shiny, and distill.
+-   **Documentation and Reproducibility:** Proficient in creating reproducible research documents using Quarto, Markdown, and LaTeX.
 
-
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
+## Education {data-icon="graduation-cap" data-concise="true"}
 
 ### University of Calcutta
+
 B.Sc., Zoology (Honours) with 77.75% marks
 
 2010
 
 ### University of Calcutta
-M.Sc., Zoology, CGPA-8.56 with grade O (Outstanding) 
+
+M.Sc., Zoology, CGPA-8.56 with grade O (Outstanding)
 
 2012
 
 ### National Institute of Biomedical Genomics, Kalyani
-Submitted Ph.D thesis in *Host Transcriptome Response in Sepsis*
 
-2019
+**PhD in Biotechnology,** Thesis Title: [**Host Transcriptome Response in Sepsis**](https://shodhganga.inflibnet.ac.in:8443/jspui/handle/10603/456974)
 
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
+2021
 
-- Experienced in transcriptomic data analysis, data mining, handling big data generated from the lab and also from the public domain.
-- Experienced in performing meta-analysis from public data to draw inference from already available data in the field (GEO, TCGA).
-- Experienced in creating data/ software packages (in R) for reproducibility of the work done.
-- All the data and codes are available in public domain for each manuscript as a R vignette.
-- Proficient in sweave, knitr, Markdown, Latex for scientific document writing.
-- Experienced in genomic data generation in a laboratory in Gene expression microarray. 
-- Isolation of DNA, RNA from clinical samples, Bioanalyzer (capillary electrophoresis) for quality assessment of the nucleic acids, PCR, gel Electrophoresis, cDNA library preparation for gene expression microarray chips, gene expression microarray. 
-- Literate in basic microbiological experiments. 
-- Experienced lab management. From sample collection to data generation to data analysis and writing of reports. 
-- Experienced to work in collaboration with technical staffs and other lab members to work as a team.
+### Elucidata, India
 
+**Bioinformatics Scientist II**
 
+2021-2024(Present)
 
-Selected Publications {data-icon=file}
---------------------------------------------------------------------------------
+## Industry Research Experience {data-icon="laptop"}
 
-###  Dynamic dysregulation of IL-6 and genes functional in NETosis, complement and coagulation in severe COVID-19 illness. [<i class="fa fa-link"></i>](https://www.medrxiv.org/content/10.1101/2020.10.13.20211425v1) 
-**medRxiv**. 2020 Oct 15. (**Pre-print**)  
+These represent the diverse projects I've undertaken across various clients.
+
+| **Year**  |                                                                **Project**                                                                |          **Role**           |
+|:--------------:|:--------------------------------------:|:--------------:|
+|   2024    |                                        **Evaluated NSP3 in COVID-19 through omics data analysis.**                                        | Technical SME, Delivery SME |
+|   2024    |                            **Meaningful visualization of clinical trial data for biologists and clinicians.**                             |        Delivery SME         |
+| 2022-2024 | **Microbiome project: Conducted data audits and ensured quality assessment. Tuberculosis project: Contributed to meta-analysis efforts.** | Technical SME, Delivery SME |
+| 2022-2024 |                   **Analyzed single-cell RNASeq data. Established pipelines for gene similarity in siRNA treatments.**                    |        Technical SME        |
+|   2022    |                               **Conducted data audit and quality evaluation for lung carcinoma datasets.**                                | Technical SME, Delivery SME |
+| 2022-2023 |                                    **Contributed to quality assessment for single-cell RNASeq data.**                                     |        Technical SME        |
+| 2021-2022 |                                             **Built and maintained ToxCMS and a Shiny app.**                                              |        Delivery SME         |
+|   2022    |                                      **Enhanced protein production in Chinese hamster ovary cells.**                                      |        Delivery SME         |
+|   2023    |                **Conducted transcriptomics, proteomics, and meta-analysis for Colon Cancer and Liver Fibrosis projects.**                 |        Technical SME        |
+|   2023    |                                    **Contributed to quality assessment for single-cell RNASeq data.**                                     |        Technical SME        |
+| 2021-2024 |                      **Worked on template-based solutions for RNASeq meta-analysis and cell composition analysis.**                       | Technical SME, Delivery SME |
+
+## Academic Research Experience {data-icon="laptop"}
+
+-   Skilled in transcriptomic data analysis, meta-analysis (GEO, TCGA), and creating reproducible research packages in R.
+-   Proficient in RStudio, Jupyter, Quarto, Sweave, knitr, Markdown, LaTeX, and website development (Shiny, distill).
+-   Experienced in genomic data generation, DNA/RNA isolation, and lab management from sample collection to report writing.
+
+## Selected Publications {data-icon="file"}
+
+### Host response to SARS-CoV-2: Insight from transcriptomic studies. [<i class="fa fa-link"></i>](http://op.niscair.res.in/index.php/IJBB/article/view/42046)
+
+**Mohapatra SK, Mukhopadhyay S** **Indian Journal of Biochemistry and Biophysics (IJBB), 58(1), pp.7-12.** (**Review Article**)
+
+2021
+
+### Analysis of transcriptomic data sets supports the role of IL-6 in NETosis and immunothrombosis in severe COVID-19 [<i class="fa fa-link"></i>](https://link.springer.com/article/10.1186/s12863-021-01001-1)
+
+**BMC Genomic Data**. 2021 Nov 14. (**Pre-print**)\
 **Mukhopadhyay S**, Sinha S, Mohapatra SK.
 
+2021
+
+### Sepsis-associated pathways segregate cancer groups. [<i class="fa fa-link"></i>](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-020-06774-9)
+
+**BMC cancer**. 2020 Apr ;20:1-1. Tripathi H, **Mukhopadhyay S**, Mohapatra SK.
+
 2020
 
-### Sepsis-associated pathways segregate cancer groups. [<i class="fa fa-link"></i>](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-020-06774-9) 
-**BMC cancer**. 2020 Apr ;20:1-1. 
-Tripathi H, **Mukhopadhyay S**, Mohapatra SK.
+### Immunosuppression, rather than inflammation, is a salient feature of sepsis in an Indian cohort. [<i class="fa fa-link"></i>](https://www.biorxiv.org/content/10.1101/742924v1)
 
-2020
-
-
-
-###  Immunosuppression, rather than inflammation, is a salient feature of sepsis in an Indian cohort. [<i class="fa fa-link"></i>](https://www.biorxiv.org/content/10.1101/742924v1) 
-**bioRxiv**. 2019 Aug 22:742924. (**Pre-print**)
-**Mukhopadhyay S**, Thatoi PK, Das BK, Mohapatra SK.
+**bioRxiv**. 2019 Aug 22:742924. (**Pre-print**) **Mukhopadhyay S**, Thatoi PK, Das BK, Mohapatra SK.
 
 2019
 
+### Transcriptomic meta-analysis reveals up-regulation of gene expression functional in osteoclast differentiation in human septic shock. [<i class="fa fa-link"></i>](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171689)
 
-###  Transcriptomic meta-analysis reveals up-regulation of gene expression functional in osteoclast differentiation in human septic shock. [<i class="fa fa-link"></i>](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0171689) 
-**PloS one**. 2017 Feb 15;12(2):e0171689.
-**Mukhopadhyay S**, Thatoi PK, Pandey AD, Das BK, Ravindran B, Bhattacharjee S, Mohapatra SK.
+**PloS one**. 2017 Feb 15;12(2):e0171689. **Mukhopadhyay S**, Thatoi PK, Pandey AD, Das BK, Ravindran B, Bhattacharjee S, Mohapatra SK.
 
 2017
 
-### Sepsis 2016 Agra: Pathway-level meta-analysis reveals transcriptional signature of septic shock. [<i class="fa fa-link"></i>](https://ccforum.biomedcentral.com/articles/10.1186/s13054-016-1204-x) 
-**Critical Care (BMC)**. 2016;20(Suppl 1):5–6. (**Conference Paper**)
-**Mukhopadhyay S**, Pandey AD, Bhattacharjee S, Mohapatra SK.
+### Sepsis 2016 Agra: Pathway-level meta-analysis reveals transcriptional signature of septic shock. [<i class="fa fa-link"></i>](https://ccforum.biomedcentral.com/articles/10.1186/s13054-016-1204-x)
+
+**Critical Care (BMC)**. 2016;20(Suppl 1):5–6. (**Conference Paper**) **Mukhopadhyay S**, Pandey AD, Bhattacharjee S, Mohapatra SK.
 
 2016
 
+## Code and Data packages {data-icon="laptop"}
 
+-   Published Manuscript: Meta-analysis of Septic Shock: (R data package [<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmg/18664), Vignette[<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmg/18664))
+-   Published Manuscript: Sepsis-associated pathways segregate cancer groups Rcode: [<i class="fa fa-link"></i>](https://figshare.com/articles/tcnibmgdoc/8118647/5,%20https://figshare.com/articles/tcnibmgdoc/8118647/5) Data-package [<i class="fa fa-link"></i>](https://figshare.com/articles/tcnibmg/8118413/3)
+-   Preprint: Host transcriptome analysis for survival of sepsis patients from an Indian cohort: (R data package [<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmgsurv/67721), Vignette [<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmgsurv/67721))
+-   Published Manuscript: Dynamic dysregulation of IL-6 and genes functional in NETosis, complement and coagulation in severe COVID-19 illness. [<i class="fa fa-link"></i>](https://github.com/samanwoy1989/covid-19)
 
+## Honors and Awards
 
+-   Awarded: Employee of the Quarter 2023 Q1.
+-   Qualified: Joint Council for Scientific & Industrial Research- University Grants Commission (CSIR-UGC) Test for Junior Research Fellowship and Eligibility for Lectureship (NET) held on 17-06-2012. Rank: 65/644 in Life Sciences.
+-   Post-Graduate Merit Scholarship (for university rank holders for PG Programs), University Grants Commission India (U.G.C.); 2010-2012.
+-   Sorashi Bala Choudury Memorial Scholarship (for university rank holders at graduation level), University of Calcutta, 2010.
 
-Code and Data packages {data-icon=laptop}
---------------------------------------------
-* Published Manuscript: Meta-analysis of Septic Shock: (R data package [<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmg/18664), Vignette[<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmg/18664))
-* Published Manuscript: Sepsis-associated pathways segregate cancer groups
-Rcode: [<i class="fa fa-link"></i>](https://figshare.com/articles/tcnibmgdoc/8118647/5,
-https://figshare.com/articles/tcnibmgdoc/8118647/5)
-Data-package [<i class="fa fa-link"></i>](https://figshare.com/articles/tcnibmg/8118413/3)
-* Preprint: Host transcriptome analysis for survival of sepsis patients from an Indian cohort: (R data package [<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmgsurv/67721), Vignette
-[<i class="fa fa-link"></i>](https://figshare.com/projects/ssnibmgsurv/67721))
-* Preprint: Dynamic dysregulation of IL-6 and genes functional in NETosis, complement and coagulation in severe COVID-19 illness. [<i class="fa fa-link"></i>](https://github.com/samanwoy1989/covid-19)
+## Teaching Experience {data-icon="chalkboard-teacher"}
 
-Honors and Awards
-------------------------------------
+-   Participated as an instructor in "Introduction to R and analysing NGS data with R". Winter school on Analysing Genomic data, NIBMG
+    2017. 
+-   Lab tour instructor in DNB workshop for population genetics, Feb. 2017, NIBMG.
+-   Participated as an instructor in "Introduction to R", NIBMG summer school for systems biology, July 2018.
+-   Participated as an instructor in NIBMG Clinical Genetics workshop, Dec,2019.
 
-- Qualified: Joint Council for Scientific \& Industrial Research- University Grants Commission (CSIR-UGC) Test for Junior Research Fellowship and Eligibility for Lectureship (NET) held on 17-06-2012. Rank: 65/644 in Life Sciences.
-- Post-Graduate Merit Scholarship (for university rank holders for PG Programs), University Grants Commission India (U.G.C.); 2010-2012.
-- Sorashi Bala Choudury Memorial Scholarship (for university rank holders at graduation level), University of Calcutta, 2010.
+## References
 
-
-    
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-- Participated as an instructor in "Introduction to R and analysing NGS data with R". Winter school on Analysing Genomic data, NIBMG 2017.
-- Lab tour instructor in DNB workshop for population genetics, Feb. 2017, NIBMG.
-- Participated as an instructor in "Introduction to R", NIBMG summer school for systems biology, July 2018.
-- Participated as an instructor in NIBMG Clinical Genetics workshop, Dec,2019.
-
-
-\newpage
-
-References
----------------------------------------------------
-
-|  	|  	|  	|
-|-	|-	|-	|
-|  	|  	|  	|
-| **Dr.Saroj Kant Mohapatra**<br>Assistant Professor<br>National Institute of<br>Biomedical Genomics<br>Kalyani 741251, India<br>email: skm1@nibmg.ac.in 	|  	| **Dr.Samsiddhi Bhattacharjee**<br>Associate Professor<br>National Institute of<br>Biomedical Genomics<br>Kalyani 741251, India<br>email:sb1@nibmg.ac.in 	|
-|  	|  	|  	|
-| **Dr.Analabha Basu**<br>Associate Professor<br>National Institute of<br>Biomedical Genomics<br>Kalyani 741251, India<br>email:ab1@nibmg.ac.in 	|  	| **Prof. Patha Pratim Majumder**<br>Distinguished Professor<br>National Institute of<br>Biomedical Genomics<br>Kalyani 741251, India<br>email:ppm1@nibmg.ac.in 	|
-
+|                                                                                                                                                                                            |     |                                                                                                                                                                                                    |
+|------------------------|------------------------|------------------------|
+|                                                                                                                                                                                            |     |                                                                                                                                                                                                    |
+| **Dr.Saroj Kant Mohapatra**<br>Assistant Professor<br>National Institute of<br>Biomedical Genomics<br>Kalyani 741251, India<br>email: [skm1\@nibmg.ac.in](mailto:skm1@nibmg.ac.in){.email} |     | **Dr.Samsiddhi Bhattacharjee**<br>Associate Professor<br>National Institute of<br>Biomedical Genomics<br>Kalyani 741251, India<br>email:[sb1\@nibmg.ac.in](mailto:sb1@nibmg.ac.in){.email}         |
+|                                                                                                                                                                                            |     |                                                                                                                                                                                                    |
+| **Dr.Analabha Basu**<br>Associate Professor<br>National Institute of<br>Biomedical Genomics<br>Kalyani 741251, India<br>email:[ab1\@nibmg.ac.in](mailto:ab1@nibmg.ac.in){.email}           |     | **Prof. Partha Pratim Majumder**<br>Distinguished Professor<br>National Institute of<br>Biomedical Genomics<br>Kalyani 741251, India<br>email:[ppm1\@nibmg.ac.in](mailto:ppm1@nibmg.ac.in){.email} |
 
 <!-- Dr.Saroj Kant Mohapatra -->
+
 <!-- Assistant Professor -->
+
 <!-- National Institute of -->
+
 <!-- Biomedical Genomics -->
+
 <!-- Kalyani 741251, India -->
+
 <!-- email: skm1@nibmg.ac.in -->
 
 <!-- Dr.Samsiddhi Bhattacharjee -->
+
 <!-- Associate Professor -->
+
 <!-- National Institute of -->
+
 <!-- Biomedical Genomics -->
+
 <!-- Kalyani 741251, India -->
+
 <!-- email:sb1@nibmg.ac.in -->
 
 <!-- Dr.Analabha Basu -->
-<!-- Associate Professor -->
-<!-- National Institute of -->
-<!-- Biomedical Genomics -->
-<!-- Kalyani 741251, India -->
-<!-- email:ab1@nibmg.ac.in	 -->
 
-<!-- Prof. Patha Pratim Majumder -->
-<!-- Distinguished Professor -->
+<!-- Associate Professor -->
+
 <!-- National Institute of -->
+
 <!-- Biomedical Genomics -->
+
 <!-- Kalyani 741251, India -->
+
+<!-- email:ab1@nibmg.ac.in   -->
+
+<!-- Prof. Partha Pratim Majumder -->
+
+<!-- Distinguished Professor -->
+
+<!-- National Institute of -->
+
+<!-- Biomedical Genomics -->
+
+<!-- Kalyani 741251, India -->
+
 <!-- email:ppm1@nibmg.ac.in -->
