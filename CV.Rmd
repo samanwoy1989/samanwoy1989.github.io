@@ -41,19 +41,20 @@ M.Sc., Zoology, CGPA-8.56 with grade O (Outstanding)
 
 These represent the diverse projects I've undertaken across various clients.
 
-| **Year**  |                                                                **Project**                                                                |          **Role**           |
-|:--------------:|:--------------------------------------:|:--------------:|
-|   2024    |                                        **Evaluated NSP3 in COVID-19 through omics data analysis.**                                        | Technical SME, Delivery SME |
-|   2024    |                            **Meaningful visualization of clinical trial data for biologists and clinicians.**                             |        Delivery SME         |
-| 2022-2024 | **Microbiome project: Conducted data audits and ensured quality assessment. Tuberculosis project: Contributed to meta-analysis efforts.** | Technical SME, Delivery SME |
-| 2022-2024 |                   **Analyzed single-cell RNASeq data. Established pipelines for gene similarity in siRNA treatments.**                    |        Technical SME        |
-|   2022    |                               **Conducted data audit and quality evaluation for lung carcinoma datasets.**                                | Technical SME, Delivery SME |
-| 2022-2023 |                                    **Contributed to quality assessment for single-cell RNASeq data.**                                     |        Technical SME        |
-| 2021-2022 |                                             **Built and maintained ToxCMS and a Shiny app.**                                              |        Delivery SME         |
-|   2022    |                                      **Enhanced protein production in Chinese hamster ovary cells.**                                      |        Delivery SME         |
-|   2023    |                **Conducted transcriptomics, proteomics, and meta-analysis for Colon Cancer and Liver Fibrosis projects.**                 |        Technical SME        |
-|   2023    |                                    **Contributed to quality assessment for single-cell RNASeq data.**                                     |        Technical SME        |
-| 2021-2024 |                      **Worked on template-based solutions for RNASeq meta-analysis and cell composition analysis.**                       | Technical SME, Delivery SME |
+| **Year** | **Project**                                                                                                              | **Role**                    |
+|:--------:|:------------------------------------------------------------------------------------------------------------------------|:----------------------------|
+|   2024   | **Evaluated NSP3 in COVID-19 through omics data analysis.** Provided critical insights advancing understanding of the virus's mechanisms, aiding research and development efforts. | Technical SME, Delivery SME |
+|   2024   | **Meaningful visualization of clinical trial data for biologists and clinicians.** Enabled efficient interpretation of complex datasets, accelerating decision-making processes. | Delivery SME                |
+| 2022-2024| **Microbiome project: Conducted data audits and ensured quality assessment. Tuberculosis project: Contributed to meta-analysis efforts.** Ensured data reliability and accuracy, crucial for downstream analyses. | Technical SME, Delivery SME |
+| 2022-2024| **Analyzed single-cell RNASeq data. Established pipelines for gene similarity in siRNA treatments.** Enhanced research capabilities, facilitating development of targeted therapies. | Technical SME               |
+|   2022   | **Conducted data audit and quality evaluation for lung carcinoma datasets.** Provided high-quality, reliable data for cancer research. | Technical SME, Delivery SME |
+| 2022-2023| **Contributed to quality assessment for single-cell RNASeq data.** Ensured high-quality data, supporting accurate research outcomes. | Technical SME               |
+| 2021-2022| **Built and maintained ToxCMS and a Shiny app.** Improved data management and visualization, streamlining research workflows. | Delivery SME                |
+|   2022   | **Enhanced protein production in Chinese hamster ovary cells.** Improved bioproduction processes, leading to more efficient and cost-effective outcomes. | Delivery SME                |
+|   2023   | **Conducted transcriptomics, proteomics, and meta-analysis for Colon Cancer and Liver Fibrosis projects.** Generated valuable biological insights, driving forward research in critical areas. | Technical SME               |
+|   2023   | **Contributed to quality assessment for single-cell RNASeq data.** Ensured high-quality data, supporting accurate research outcomes. | Technical SME               |
+| 2021-2024| **Worked on template-based solutions for RNASeq meta-analysis and cell composition analysis.** Developed solutions that provided robust and reproducible results, enhancing the research process. | Technical SME, Delivery SME |
+
 
 ## Academic Research Experience {data-icon="laptop"}
 

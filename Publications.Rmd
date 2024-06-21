@@ -13,11 +13,13 @@ knitr::opts_chunk$set(echo = FALSE)
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-###  Dynamic dysregulation of IL-6 and genes functional in NETosis, complement and coagulation in severe COVID-19 illness. [<i class="fa fa-link"></i>](https://www.medrxiv.org/content/10.1101/2020.10.13.20211425v1) 
-**medRxiv**. 2020 Oct 15. (**Pre-print**)  
+
+### Analysis of transcriptomic data sets supports the role of IL-6 in NETosis and immunothrombosis in severe COVID-19 [<i class="fa fa-link"></i>](https://link.springer.com/article/10.1186/s12863-021-01001-1)
+
+**BMC Genomic Data**. 2021 Nov 14. \
 **Mukhopadhyay S**, Sinha S, Mohapatra SK.
 
-2020
+2021
 
 ### Sepsis-associated pathways segregate cancer groups. [<i class="fa fa-link"></i>](https://bmccancer.biomedcentral.com/articles/10.1186/s12885-020-06774-9) 
 **BMC cancer**. 2020 Apr ;20:1-1. 
